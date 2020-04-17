@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8705d313-e770-4655-abe3-6c1ecaa7b8d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder_name/app/API.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder_name/app/DB.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder_name/app/Model.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder_name/app/TarifController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder_name/app/TarifModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder_name/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/API.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/DB.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/Model.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/TarifController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/TarifModel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +57,7 @@
       <updated>1587048957667</updated>
       <workItem from="1587048959033" duration="29778000" />
       <workItem from="1587111679769" duration="4315000" />
-      <workItem from="1587146897340" duration="4292000" />
+      <workItem from="1587146897340" duration="4910000" />
     </task>
     <servers />
   </component>
