@@ -11,7 +11,7 @@ final class API {
     }
 
     public function route ($uri) {
-        $controller = new TarifController();
+        $controller = new TarifController;
 
         $method = $_SERVER['REQUEST_METHOD'];
         if ($method === 'PUT' and preg_match("/^\/users\/([\d]+)\/services\/([\d]+)\/tarif$/", $uri, $matches)) {

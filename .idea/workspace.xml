@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8705d313-e770-4655-abe3-6c1ecaa7b8d2" name="Default Changelist" comment="" />
+    <list default="true" id="8705d313-e770-4655-abe3-6c1ecaa7b8d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder_name/app/API.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder_name/app/DB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder_name/app/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder_name/app/TarifController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder_name/app/TarifModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder_name/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/API.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/DB.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/Model.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/TarifController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App/TarifModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,15 +27,24 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1acy0zP1DJVGJIpJrqYTgjQZemi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -44,12 +68,16 @@
       <option name="presentableId" value="Default" />
       <updated>1587048957667</updated>
       <workItem from="1587048959033" duration="29778000" />
-      <workItem from="1587111679769" duration="3077000" />
+      <workItem from="1587111679769" duration="4315000" />
+      <workItem from="1587146897340" duration="4292000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="729" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1587074857617">
@@ -60,14 +88,18 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1010" y="278" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1587074661301" />
+    <state x="1060" y="278" key="FileChooserDialogImpl" timestamp="1587135290896">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="278" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1587135290896" />
     <state x="1098" y="354" key="NewPhpClassDialog" timestamp="1587074687012">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1098" y="354" key="NewPhpClassDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1587074687012" />
-    <state x="707" y="501" key="NewPhpFileDialog" timestamp="1587056103251">
+    <state x="707" y="501" key="NewPhpFileDialog" timestamp="1587150042679">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="707" y="501" key="NewPhpFileDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1587056103251" />
+    <state x="707" y="501" key="NewPhpFileDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1587150042679" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1587055942522">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
